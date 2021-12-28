@@ -9,3 +9,7 @@ http://www.cs.utexas.edu/users/walter/cs-songbook/instruction_set.html
 Copyright Walter Chang. Permission granted for noncommercial use as long as attribution is maintained. walter@cs.utexas.edu 
 
 Phonetics swapped in by [Adrian Edwards](www.adriancedwards.com).
+
+
+## Usage
+`./replace.sh original.txt newsong.txt`
