@@ -12,7 +12,7 @@ And loads of other fun instructions that were put in jayust for you
 The MIPS instruction set is very simple to be memor-ized
 Which will come in handy when you have your code to optimize!
 There's addy, div-u, l-h, reef, and sis-call, jayr, miff-c-z
-And m-f-c-one, nopp, and break, and blitz-al with b-c-z-t
+And m-f-c-one, noppp, and break, and blitz-al with b-c-z-t
 And srillv, zor-i, blitz, and l-b, lweeill, and addyu
 andy, sub-u, lweeer, and lweeiscz, m-t-c-z, slitiu
 There's bczf, b-g-t-z to branch if it's greater than
