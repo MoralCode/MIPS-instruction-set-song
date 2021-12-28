@@ -1,26 +1,26 @@
-There's div and nor and mult and or and sllv sra
-There's xor and swl and beq and sll and bgezal jumps today
-And multu, srav, and j combined with lhu and lui
-And also slt and bne and instruction mthi
-There's sh and sb and lbu and blez and jal and then sltu
-And of course there's and and add and srl and sub and things to do
+There's div and nor and mult and or and s-l-l-v s-r-a
+There's zor and sweeill and beck and sill and beh-geezal jayumps today
+And mult-you, s-r-av, and jay combined with l-h-u and l-u-i
+And also slit and b-n-e and instruction m-t-high
+There's shih and sib and l-b-u and blez and jayal and then slitu
+And of course there's and and add and srill and sub and things to do
 With the MIPS instructions I am very nimble on my feet
 And though I sing assembler but I am really not a geek
 
-There's addu, ori, slti, swr, and bgez and jalr too
-And loads of other fun instructions that were put in just for you
-The MIPS instruction set is very simple to be memorized
+There's add-u, or-i, sliti, sweeir, and beh-gez and jayalr too
+And loads of other fun instructions that were put in jayust for you
+The MIPS instruction set is very simple to be memor-ized
 Which will come in handy when you have your code to optimize!
-There's addi, divu, lh, rfe, and syscall, jr, mfcz
-And mfc1, nop, and break, and bltzal with bczt
-And srlv, xori, bltz, and lb, lwl, and addiu
-andi, subu, lwr, and lwcz, mtcz, sltiu
-There's bczf, bgtz to branch if it's greater than
-And mflo and sw, these instructions are not any also-rans
-There's mtlo and swcz too, although I don't know what they're for
-And lw - that's obviously load word from mem bytes there are four
+There's addy, div-u, l-h, reef, and sis-call, jayr, miff-c-z
+And m-f-c-one, nopp, and break, and blitz-al with b-c-z-t
+And srillv, zor-i, blitz, and l-b, lweeill, and addyu
+andy, sub-u, lweeer, and lweeiscz, m-t-c-z, slitiu
+There's bczf, b-g-t-z to branch if it's greater than
+And em-flow and swee, these instructions are not any also-rans
+There's m-t-low and sweecz too, although I don't know what they're for
+And lwee - that's obviously load word from mem bytes there are four
 
 And now my song is through and I know all of my words by the heart
-Which will come in handy when we have our projects multi-part
+Which will come in handy when we have our projayects multi-part
 I live and breathe the MIPS instruction set on every night and day
-Because the MIPS assembler will always try and work my way!
+Because the MIPS assembler will alweeays try and work my way!
