@@ -1,5 +1,5 @@
 #!/bin/bash 
-sed -i -e 's/sllv/s-l-l-v/g' $1 > $2
+sed -e 's/sllv/s-l-l-v/g' $1 > $2
 sed -i -e 's/ sra / s-r-a /g' $2
 sed -i -e 's/xor/zor/g' $2
 sed -i -e 's/swl/swill/g' $2
